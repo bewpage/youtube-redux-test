@@ -1,0 +1,33 @@
+.video_container{
+
+}
+
+.video_window{
+    margin: 0 auto;
+    width: 246px;
+    height: 137px;
+}
+
+
+.video_text{
+    /*max-width: 500px;*/
+    /*min-width: 0;*/
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+    .video_window{
+        margin: 0 auto;
+        /*width: 100%;*/
+        height: 137px;
+    }
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .video_window{
+        width: 100%;
+        height: 137px;
+    }
+}

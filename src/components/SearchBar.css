@@ -1,0 +1,12 @@
+.btn-default:focus, .btn-default:active,
+.btn:focus, .btn:active {
+    outline: 0 !important;
+}
+
+.btn-default {
+    background-color: #ffffff;
+}
+
+.search_bar{
+    margin: 0 15px;
+}

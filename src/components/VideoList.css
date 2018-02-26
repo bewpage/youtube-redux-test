@@ -1,0 +1,18 @@
+.video_list_item{
+    margin-bottom: 1px;
+}
+
+.video_list-thumbnail{
+    height: 100px;
+    background-color: #ffffff;
+    border: #f7f7f7 solid 1px;
+    border-radius: 4px;
+}
+
+.list-group{
+    margin-bottom: 5px;
+}
+
+.list-group-item{
+    padding: 5px 5px;
+}
